@@ -1,0 +1,56 @@
+/*.jumbotron {
+	background-image: url(https://images.unsplash.com/photo-1584324585851-23e2b2809bab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-weight: bolder;
+}
+*/
+
+
+.margin {margin-bottom: 45px;}
+
+.bg-1 {
+    background-color: lightseagreen; 
+    color: white;
+  }
+.bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+.bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+.navbar-nav  li a:hover {
+    color: lightseagreen !important;
+  }
+  .navbar-brand{
+    font-family: "Liu Jian Mao Cao", cursive;
+    font-size: 50px;
+  }
+  .nav-item{
+    font-size: 15px;
+  }
+
+.LiuText {
+  font-family: "Liu Jian Mao Cao", cursive;
+    font-size: 75px;
+}
